@@ -1,0 +1,5 @@
+app_image: "ghcr.io/zefiruz/devops-ci-app"
+app_tag: "0a7e8d19c5fa8ad105883a99c8c4b53dcbe07dda"
+app_container_name: "devops-ci-app"
+app_host_port: 5000
+app_internal_port: 5000
